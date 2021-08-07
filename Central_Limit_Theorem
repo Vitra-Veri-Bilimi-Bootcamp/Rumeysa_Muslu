@@ -1,0 +1,2 @@
+CENTRAL LIMIT THEOREM
+Merkezi limit teoremi olasılık kuramı için ikinci temel teorem olarak kabul edilmektedir. Veri setimizdeki bağımsız ve aynı dağılım gösteren rassal değişkenlerin aritmetik ortalamasının, yaklaşık olarak normal dağılım göstereceğini ifade eden bir teoremdir. Ne kadar çok verimiz olursa da mükemmel normal dağılıma o kadar yaklaşırız. Genel kural olarak gereken en az örneklem sayısı 30'dur.
